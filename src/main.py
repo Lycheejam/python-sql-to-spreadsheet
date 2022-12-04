@@ -1,7 +1,3 @@
-# 1. DBデータ取得
-# 2. spreadsheet作成
-# 3. spreadsheetにデータ書き込み
-
 from sqlalchemy import create_engine
 from sqlalchemy.sql import text
 from google.oauth2 import service_account
