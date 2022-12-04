@@ -9,6 +9,7 @@ python = "^3.7"
 SQLAlchemy = "^1.4.44"
 PyMySQL = "^1.0.2"
 google-auth = "^2.15.0"
+gspread = "^5.7.2"
 
 [tool.poetry.dev-dependencies]
 black = "^22.10.0"
